@@ -1,3 +1,1 @@
-# My First Git Project
-
-ФИО: Ян Цинь
+# ФИО: Ян Цинь
